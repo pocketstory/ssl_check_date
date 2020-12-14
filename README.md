@@ -3,9 +3,10 @@
 
 ---
 
-### 构建
+#### 构建
 
-#### windows下构建
+##### windows下构建
+
 打开cmd命令行
 
 git clone 
@@ -18,5 +19,5 @@ set GOARCH=amd64
 
 go build 
 
-### 命令使用方法
+#### 命令使用方法
 ssl_check_date -url=https://你的域名

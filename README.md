@@ -5,7 +5,9 @@
 git clone 
 
 set GOOS=linux
+
 set GOARCH=amd64
+
 go build 
 
 ### 命令使用方法

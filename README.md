@@ -5,7 +5,7 @@
 
 #### 构建
 
-git clone https://github.com/koudai-story/ssl_check_date.git
+git clone https://github.com/pocketstory/ssl_check_date.git
 
 cd ssl_check_date
 
